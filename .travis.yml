@@ -1,2 +1,2 @@
-language:java
-before_script:"cd exercises/java"
+language: java
+before_script: "cd exercises/java"
